@@ -1,0 +1,22 @@
+.paginadoContain {
+    width: 100%;
+}
+
+.paginado {
+    width: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.paginado button {
+    background-color: #606062;;
+    color: #FFF;
+    width: 2rem;
+    height: 2rem;
+}
+
+.paginado button:hover {
+    cursor: pointer;
+}

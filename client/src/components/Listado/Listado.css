@@ -1,0 +1,14 @@
+.ningun {
+    color: #B6B6B6;
+    line-height: 26px;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.cardContain {
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+    row-gap: 2rem;
+    margin-top: 2.5rem;
+}

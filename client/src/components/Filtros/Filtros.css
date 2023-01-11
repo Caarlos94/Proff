@@ -1,0 +1,36 @@
+.filterContain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -6rem;
+}
+
+.filterContain label {
+    display: block;
+    color: #B6B6B6;
+    display: block;
+    margin: 24px 0 8px 0;
+}
+
+.filterContain select, .filterContain input {
+    width: 200px;
+    margin: 0.5rem 1rem 0 0;
+    background: #FAFAFC;
+    border: 1px solid #F0EBE6;
+    border-radius: 8px;
+    height: 56px;
+    font-size: 1.25rem;
+    color: #B6B6B6;
+}
+
+.filtroBtn {
+    background-color: #F47D35;
+    color: #fff;
+    width: 202px;
+    height: 64px;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 4rem;
+}
