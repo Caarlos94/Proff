@@ -37,7 +37,7 @@ const Form = () => {
 
   const submitHandler = (e) => {
     e.preventDefault();
-    fetch("http://localhost:3001/profe", {
+    fetch("https://proff-production.up.railway.app/profe", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(form),
