@@ -65,21 +65,21 @@ Debes reemplazar `postgresuser` y `postgrespassword` por tus propias credeciales
 
 - Main
 
-![main](https://raw.githubusercontent.com/Caarlos94/Proff/main/client/src/img/home.png)
+![main](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/home.png)
 
 - Formulario Posterior
 
-![form](https://raw.githubusercontent.com/Caarlos94/Proff/main/client/src/img/form1.png)
+![form](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/form1.png)
 
 - Formulario Inferior
 
-![form](https://raw.githubusercontent.com/Caarlos94/Proff/main/client/src/img/form2.png)
+![form](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/form2.png)
 
 - Listado Vacio
 
-![listado](https://raw.githubusercontent.com/Caarlos94/Proff/main/client/src/img/listadoVacio.png)
+![listado](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/listadoVacio.png)
 
 - Detalle del Profesor
 
-![detalle](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/cards.png)
+![detalle](https://raw.githubusercontent.com/Caarlos94/pokemon/master/client/src/img/Readme/cards.png)
 
