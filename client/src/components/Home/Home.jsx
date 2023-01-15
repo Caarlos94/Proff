@@ -13,22 +13,22 @@ const Home = () => {
       <div className="grid">
         <div className="profContain">
           <img src={proff} alt="imagen" width={"400px"}></img>
-          <p className="textoInicio"> Tu plataforma de <br /> estudio en línea </p>
+          <p className="textoInicio"> Tu plataforma de estudio en línea </p>
         </div>
         <img src={imgUno} alt="imagen"></img>
       </div>
 
-    <div>
+    <div className="links">
       <Link to={"/listado"}>
         <button className="estudiar">
-        <img src={libro1} alt="icon"></img>
-        <img src={libro2} alt="icon" className="icon"></img>
+        <img src={libro1} alt="icon" className="responsive"></img>
+        <img src={libro2} alt="icon" className="icon responsive"></img>
           Estudiar</button>
       </Link>
 
       <Link to={"/form"}>
         <button className="clase">
-        <img src={tv} alt="icon" className="icon"></img>
+        <img src={tv} alt="icon" className="icon responsive"></img>
             Dar clases</button>
       </Link>
     </div>

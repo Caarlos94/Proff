@@ -129,3 +129,54 @@ form {
     cursor: pointer;
     margin-left: 5rem;
 }
+
+@media screen and (max-width:450px) {
+    .flecha, .punta {
+        left: 30px;
+    }
+
+    .colorGris {
+        text-align: center;
+    }
+
+    .formTitle {
+        font-size: 1.75rem;
+        padding: 4rem 0 0 0;
+        line-height: 42px;
+    }
+
+    .primerPaso {
+        font-size: 1.5rem;
+        padding: 2rem 0 0 0;
+        line-height: 26px;
+    }
+
+    form {
+        width: 350px;
+    }
+
+    .infoContain{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .flex {
+        flex-direction: column;
+    }
+
+    .flexSon {
+        flex: none;
+    }
+
+    .botonContain > div {
+        display: flex;
+        padding-left: 1rem;
+        text-align: center;
+    }
+
+    .registro {
+        width: 140px;
+        font-size: 0.95rem;
+        margin-left: 0.75rem;
+    }
+}

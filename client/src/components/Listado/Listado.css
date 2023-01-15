@@ -10,5 +10,19 @@
     display: grid;
     grid-template-columns: repeat(1, 100%);
     row-gap: 2rem;
-    margin-top: 2.5rem;
+    margin-top: 1.75rem;
+}
+
+@media screen and (max-width:450px) {
+    .formTitle {
+        padding-top: 3rem;
+    }
+
+    .cardContain {
+        row-gap: 5rem;
+    }
+
+    .color {
+        padding-bottom: 7rem;
+    }
 }

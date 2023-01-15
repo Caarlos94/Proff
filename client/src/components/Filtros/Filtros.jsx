@@ -18,7 +18,6 @@ const Filtros = (/*{ setPage, setRender } */ ) => {
 
   const handleFiltro = (e) => {
     setState({ ...state, [e.target.name]: e.target.value })
-    // setPage(1)
   };
 
   const clickHandler = () => {
@@ -26,8 +25,6 @@ const Filtros = (/*{ setPage, setRender } */ ) => {
   }
 
   return (
-      <div>
-
         <div className='filterContain'>  
           <div>
             <label htmlFor="materia">Materia</label>
@@ -73,11 +70,7 @@ const Filtros = (/*{ setPage, setRender } */ ) => {
           <div>
             <button className='filtroBtn' onClick={() => clickHandler()}>Buscar</button>
           </div>
-
         </div>
-
-
-      </div>
   );
 };
 
