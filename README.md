@@ -81,5 +81,5 @@ Debes reemplazar `postgresuser` y `postgrespassword` por tus propias credeciales
 
 - Detalle del Profesor
 
-![detalle](https://raw.githubusercontent.com/Caarlos94/pokemon/master/client/src/img/cards.png)
+![detalle](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/cards.png)
 
