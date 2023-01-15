@@ -132,7 +132,7 @@ form {
 
 @media screen and (max-width:450px) {
     .flecha, .punta {
-        left: 30px;
+        left: 15px;
     }
 
     .colorGris {
