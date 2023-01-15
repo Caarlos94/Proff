@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Caarlos94/Proff/client/src/img/home.png)
+![Logo](https://raw.githubusercontent.com/Caarlos94/Proff/master/client/src/img/home.png)
 
 # Individual Project - Proff
 
